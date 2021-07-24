@@ -1,0 +1,65 @@
+body{
+    background-color: whitesmoke !important;
+}
+.header-text{
+    text-align: center;
+    margin: auto;
+    margin-top: 0px;
+    padding: 10% 20%;
+    background-color: #f1cd3b;  
+}
+.featured-products, .featured-catagories, .about-us{
+    text-align: center;
+    margin-top: 100px;
+}
+.slider{
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.featured-catagories{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    
+}
+
+.about-us p{
+    text-align: justify;
+    margin-bottom: 100px;
+}
+footer{
+    background-color:rgba(19, 18, 18, 0.959);
+    color: white;
+    padding-top: 50px ;
+    
+    padding-bottom: 50px;
+
+}
+.footer-logo{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.footer-menu{
+    text-align: center;
+}
+.adress{
+    text-align: center;
+}
+.name{
+    color: yellow;
+}
+i{
+    color: yellow;
+    font-size: 30px;
+    margin:20px;
+}
+.social-icons{
+    display: flex;
+    justify-content: center;
+    
+}
+.copyright{
+    text-align: center;
+}
