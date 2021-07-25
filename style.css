@@ -8,7 +8,7 @@ body{
     padding: 10% 20%;
     background-color: #f1cd3b;  
 }
-.featured-products, .featured-catagories, .about-us{
+.featured-products, .featured-catagories, .about-us, .offers, .contact{
     text-align: center;
     margin-top: 100px;
 }
@@ -23,11 +23,37 @@ body{
     padding-bottom: 70px;
     
 }
-
+.catagory-content a{
+    text-decoration: none;
+    color: black;
+}
+.offer-img{
+    width: 60%;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
 .about-us p{
     text-align: justify;
     margin-bottom: 100px;
 }
+.contact{
+    margin-bottom: 100px;
+    background-color: white;
+    padding: 20px;
+}
+.contact a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+.call-us{
+    
+}
+.contact h6{
+    margin: 20px;
+}
+
 footer{
     background-color:rgba(19, 18, 18, 0.959);
     color: white;
